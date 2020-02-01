@@ -1,1 +1,2 @@
-Extendible hashing code in java.
+BOYER-MOORE String matching algorithm.
+KMP String Matching algorithm.
