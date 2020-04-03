@@ -1,0 +1,17 @@
+PS G:\ADS LAB\btree> javac Main.java
+PS G:\ADS LAB\btree> java Main
+Traversal of BTree
+
+Node Node@15db9742
+ key--> 40
+Node Node@6d06d69c
+ key--> 10
+ key--> 20
+ key--> 22
+ key--> 33
+Node Node@7852e922
+ key--> 55
+ key--> 66
+ key--> 80
+ key--> 90
+PS G:\ADS LAB\btree>
